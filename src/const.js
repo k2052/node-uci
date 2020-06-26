@@ -23,6 +23,7 @@ export const REGEX = {
     string: /\bstring (.+)/,
     refutation: /\brefutation (.+)/,
     currline: /\bcurrline (.+)/,
+    wdl: /\bwdl (\d+.\d+.\d+)/,
   },
 }
 
